@@ -61,11 +61,11 @@ MongoClient.connect(url, function (err, db) {
           // TREATMENT : SHOULD BE COMMENTED ON FIRST LAUNCH
           // Use the context prompted before to prepare your replacements requests.
 
-          // Uncomment following block when you’re ready to modify your data
+          // TODO : Uncomment following block when you’re ready to modify your data
 
           // var updatedObjStr = objStr;
-          // updatedObjStr = updatedObjStr.replaceAll('target1', 'replacement1');
-          // updatedObjStr = updatedObjStr.replaceAll('target2', 'replacement2');
+          // updatedObjStr = updatedObjStr.replaceAll('target1', 'replacement1');//←-- TODO
+          // updatedObjStr = updatedObjStr.replaceAll('target2', 'replacement2');//←-- TODO
           //
           // updatedObj = JSON.parse(updatedObjStr);
           // delete updatedObj._id;
