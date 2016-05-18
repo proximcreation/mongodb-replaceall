@@ -23,6 +23,7 @@ npm start
 ```
 
 Edit the index.js
+
 Uncomment the "TREATMENT" block
 ```
 npm start
