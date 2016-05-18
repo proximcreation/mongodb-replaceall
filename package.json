@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-replaceall",
+  "version": "1.0.0",
+  "description": "A nodejs script to manage string replacement over a whole MongoDB database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github.com/proximcreation",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb": "^2.1.19",
+    "lodash": "^3.10.1"
+  }
+}
